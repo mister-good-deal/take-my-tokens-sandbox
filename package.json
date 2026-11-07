@@ -1,0 +1,1 @@
+{ "name": "take-my-tokens-sandbox", "private": true, "type": "module", "scripts": { "test": "node calc.test.mjs" } }
